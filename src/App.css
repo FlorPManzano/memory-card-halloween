@@ -23,6 +23,11 @@ html {
 body {
   margin: 0;
   background: radial-gradient(#9d5900, #3d2200);
+  background-image: url(./assets/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .page-title {
